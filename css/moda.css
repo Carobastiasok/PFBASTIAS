@@ -11,10 +11,11 @@ body {
     grid-template-rows: auto auto 1fr auto; /* Cuatro filas: header, nav, main, footer */
     grid-template-columns: 1fr;
     height: 100vh;
-    background-color: whitesmoke;
+    background-color: #f5f5f5;
 }
 
 .header {
+    background-image: url(../img/REVISTAS.jpg);
     text-align: center;
     padding: 1em;
     border: 2px solid gray;
